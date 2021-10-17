@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROJECT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROJECT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROJECT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="FILE.INP" />
+		<Unit filename="FILE.OUT" />
+		<Unit filename="INPUT.txt" />
+		<Unit filename="file1.txt" />
+		<Unit filename="file1_1.txt" />
+		<Unit filename="file1_2.txt" />
+		<Unit filename="file2.txt" />
+		<Unit filename="file2_1.txt" />
+		<Unit filename="file2_2.txt" />
+		<Unit filename="file3.txt" />
+		<Unit filename="file3_1.txt" />
+		<Unit filename="file3_2.txt" />
+		<Unit filename="file4.txt" />
+		<Unit filename="file4_1.txt" />
+		<Unit filename="file4_2.txt" />
+		<Unit filename="file5.txt" />
+		<Unit filename="file6.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="output.csv" />
+		<Unit filename="test1.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

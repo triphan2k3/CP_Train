@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\C++\\atcoder_dp\\E.cpp","tests":[{"id":1632650439724,"input":"3 8\n3 30\n4 50\n5 60","output":"90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\atcoder_dp\\E.cpp","group":"local","local":true}

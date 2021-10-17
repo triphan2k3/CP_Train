@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "ostream": "cpp",
+        "xstddef": "cpp",
+        "utility": "cpp",
+        "queue": "cpp"
+    }
+}

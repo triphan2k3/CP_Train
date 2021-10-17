@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\C++\\atcoder_dp\\F.cpp","tests":[{"id":1632650745560,"input":"axyb\nabyxb","output":"axb"},{"id":1632650797728,"input":"aa\nxayaz\n","output":"aa"},{"id":1632650812326,"input":"a\nz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\atcoder_dp\\F.cpp","group":"local","local":true}

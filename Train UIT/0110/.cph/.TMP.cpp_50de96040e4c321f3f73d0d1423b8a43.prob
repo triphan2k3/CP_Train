@@ -1,0 +1,1 @@
+{"name":"Local: TMP","url":"d:\\C++\\Train UIT\\0110\\TMP.cpp","tests":[{"id":1633145313370,"input":"2 3\n1 3 2 50 1\n4 4 1 50 0","output":"1 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Train UIT\\0110\\TMP.cpp","group":"local","local":true}
